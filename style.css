@@ -1,25 +1,39 @@
 h1{
 	color: brown;
+	font-family: Monotype Corsiva;
 }
 h3{
 	color: darkred;
+	font-family: Monotype Corsiva;
 }
 h5{
 	color: maroon;
+	font-family: Monotype Corsiva;
 }
 p{
-	font-size: 3;
+	font-size: 20px;
 	color: maroon;
+	font-family: Monotype Corsiva;
 }
 li{
 	color: maroon;
+	font-family: Monotype Corsiva;
 }
 dt{
 	color: maroon;
+	font-family: Monotype Corsiva;
+	font-size: 20px;
 }
 dd{
 	color: maroon;
+	font-family: Monotype Corsiva;
+	font-size: 20px;
 }
 h2{
 	color: maroon;
+	font-family: Monotype Corsiva;
+}
+h4{
+	color: maroon;
+	font-family: Monotype Corsiva;
 }
